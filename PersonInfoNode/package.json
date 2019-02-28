@@ -1,0 +1,26 @@
+{
+  "name": "personalinfonodeapp",
+  "version": "1.0.0",
+  "description": "Assignment node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rucha",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "10.12.18",
+    "querystring": "^0.2.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.6"
+  },
+  "devDependencies": {
+    "q": "^1.5.1",
+    "express": "4.16.4",
+    "body-parser": "1.18.3",
+    "cors": "2.8.5",
+    "jquery": "3.3.1",
+    "popper.js": "^1.14.6",
+    "bootstrap": "4.2.1"
+  }
+}
